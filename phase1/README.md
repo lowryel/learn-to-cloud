@@ -62,7 +62,7 @@ Setup a [LAMP server](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) | A 
 - Control permissions with `chown`, `chgrp`, `chmod` commands.
 - Creating users and the `sudo` command.
 - Process management with `ps`, `top`, `nice`, `kill`
-- Manage environment aud user defined variables with `env`, `set`, `export` commands.
+- Manage environment and user defined variables with `env`, `set`, `export` commands.
 - Add directories to your `PATH`.
 - Compression and archiving with `tar`, `gzip`, `gunzip`.
 - How to access a Linux server with `ssh`.
